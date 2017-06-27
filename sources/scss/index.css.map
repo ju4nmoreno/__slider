@@ -1,6 +1,6 @@
 {
 	"version": 3,
-	"file": "../../public/assets/styles/index.css",
+	"file": "../../docs/assets/styles/index.css",
 	"sources": [
 		"index.scss",
 		"base/_variables.scss",

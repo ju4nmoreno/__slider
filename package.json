@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "pug": "pug -o public sources/pug/index.pug",
+    "pug": "pug -o docs sources/pug/index.pug",
     "pug:watch": "npm run pug -- -w",
-    "scss": "node-sass --output-style compressed --sourceMap sources/scss -o public/assets/styles sources/scss && postcss -u autoprefixer -r public/assets/styles/*",
+    "scss": "node-sass --output-style compressed --sourceMap sources/scss -o docs/assets/styles sources/scss && postcss -u autoprefixer -r docs/assets/styles/*",
     "scss:watch": "nodemon -e scss -x \"npm run scss\" ",
-    "babel": "babel --presets es2015 -d public/assets/scripts sources/scripts",
+    "babel": "babel --presets es2015 -d docs/assets/scripts sources/scripts",
     "babel:watch": "npm run babel -- -w",
-    "serve": "browser-sync start --server \"./public\" --files \"public/*.html\" \"public/assets/styles/*.css\" \"public/assets/scripts/*.js\" ",
+    "serve": "browser-sync start --server \"./docs\" --files \"docs/*.html\" \"docs/assets/styles/*.css\" \"docs/assets/scripts/*.js\" ",
     "watch:all": "parallelshell \"npm run pug:watch\" \"npm run babel:watch\" \"npm run scss:watch\" \"npm run serve\" ",
     "build:all": "parallelshell \"npm run pug\" \"npm run scss\" \"npm run babel\" ",
     "start": "npm run build:all && npm run watch:all"
