@@ -8,7 +8,7 @@
     nextSlide: null,
     farSlide: null,
     slides: [{
-      image: "assets/images/slider-home/bg0001.gif",
+      image: "assets/images/slider-home/bg0001.jpg",
       link: "#/one",
       class: ""
     }, {
@@ -16,7 +16,7 @@
       link: "#/two",
       class: ""
     }, {
-      image: "assets/images/slider-home/bg0003.gif",
+      image: "assets/images/slider-home/bg0003.jpg",
       link: "#/three",
       class: ""
     }, {
@@ -24,124 +24,12 @@
       link: "#/four",
       class: ""
     }, {
-      image: "assets/images/slider-home/bg0005.gif",
-      link: "#/four",
+      image: "assets/images/slider-home/bg0005.jpg",
+      link: "#/five",
       class: ""
     }, {
       image: "assets/images/slider-home/bg0006.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0007.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0008.JPG",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0009.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0010.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0011.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0012.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0013.JPG",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0014.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0015.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0016.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0017.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0018.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0019.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0020.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0021.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0022.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0023.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0024.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0025.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0026.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0027.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0028.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0029.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0030.gif",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0031.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0032.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0033.jpg",
-      link: "#/four",
-      class: ""
-    }, {
-      image: "assets/images/slider-home/bg0034.jpg",
-      link: "#/four",
+      link: "#/six",
       class: ""
     }]
   };
