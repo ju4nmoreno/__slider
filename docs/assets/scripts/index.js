@@ -36,7 +36,7 @@
       link: "#/four",
       class: ""
     }, {
-      image: "assets/images/slider-home/bg0008.jpg",
+      image: "assets/images/slider-home/bg0008.JPG",
       link: "#/four",
       class: ""
     }, {
@@ -56,7 +56,7 @@
       link: "#/four",
       class: ""
     }, {
-      image: "assets/images/slider-home/bg0013.jpg",
+      image: "assets/images/slider-home/bg0013.JPG",
       link: "#/four",
       class: ""
     }, {
